@@ -3,4 +3,4 @@ const addMeMaybe = function (number, theFunction) {
   theFunction(number + 1);
 };
 
-module.export = addMeMaybes
+module.export = addMeMaybe
